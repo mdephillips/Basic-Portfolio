@@ -14,7 +14,7 @@ ASSETS
 
    ![Portfolio Gallery](Images/portfolio-gallery.png)
 [validate your html](https://validator.w3.org/#validate_by_input).
-<css/ css>
+<css/ css><img src+"http://lorepixel.com/400/200" />
   {style.css}
 <images.css>
     https://uofwvirtfsfpt-jfb8608.slack.com/files/UQ83WTBH7/FRC8KGDPH/img_6165.jpg
